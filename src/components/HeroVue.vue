@@ -51,9 +51,12 @@ h1 {
     margin: 0;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 950px) {
     .hero-container {
         display: block;
+    }
+    .hero-text {
+        font-size: 4vw;
     }
 }
 
